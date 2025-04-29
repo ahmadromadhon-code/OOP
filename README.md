@@ -18,7 +18,7 @@
 
 <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
-    <a href="https://youtu.be/tiBJUPN1Fxc?si=ROvizjgdbeJatC7v"><img width="720" height="auto""/></a>
+    <a href="https://youtu.be/tiBJUPN1Fxc?si=ROvizjgdbeJatC7v"></a>
 </div>
 
 
