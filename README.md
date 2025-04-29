@@ -63,13 +63,13 @@
 
 <h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/j0shbl0ck247/">
+  <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="https://github.com/j0shbl0ck">
+  <a href="https://github.com/ahmadromadhon-code">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="https://discord.gg/Hatman77#8963" >
+  <a href="#" >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
@@ -78,6 +78,6 @@
 
 <h1 align="center"></h1>
 
-[![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
+
 
               
