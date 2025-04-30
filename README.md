@@ -11,7 +11,7 @@
 <ul>
   <li> 📺 Currently watching <b>86 Eighty Six</b></li>
   <li> 🔭 I’m currently working on <b>Intune deployment for clients</b></li>
-  <li> 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b></li>
+  <li> 🎮 I’m currently playing <bWutherinhg Waves</b> or <b>Battlefield V</b></li>
   <li> 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b></li>
   <li> 📫 How to reach me: <b>0go1fbn9c@relay.firefox.com</b></li>
 </ul>
